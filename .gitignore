@@ -1,0 +1,11 @@
+## generic files to ignore
+2.
+*~
+3.
+*.lock
+4.
+*.DS_Store
+5.
+*.swp
+6.
+*.out
